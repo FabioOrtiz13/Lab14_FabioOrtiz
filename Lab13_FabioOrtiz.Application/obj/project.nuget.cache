@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "brrw+ADpM+g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fac31\\Documents\\6to semestre\\DAEA\\Lab13_FabioOrtiz\\Lab13_FabioOrtiz.Application\\Lab13_FabioOrtiz.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fac31\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\fac31\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\fac31\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
